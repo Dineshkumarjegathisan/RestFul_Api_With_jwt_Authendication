@@ -1,0 +1,8 @@
+# ignore all files in the "node_modules" directory
+/node_modules
+
+# ignore all files with the ".log" extension
+*.log
+
+# ignore the "secret.txt" file
+secret.txt
